@@ -1,9 +1,9 @@
 /*
-	Go script that implementes a Deterministic Finite Automata (DFA) following
-	this Python implementation: https://drive.google.com/drive/folders/1lxu9hWiPRBjhgjUWyN8RLwfKnKS8AQkL
+     Go script that implementes a Deterministic Finite Automata (DFA) following
+     this Python implementation: https://drive.google.com/drive/folders/1lxu9hWiPRBjhgjUWyN8RLwfKnKS8AQkL
 
-	Example: Set of Alphabet (denoted with a Sigma symbol) Sigma = { a, b }
-	Language of the machine,  L = { Words where a's come before b's}
+     Example: Set of Alphabet (denoted with a Sigma symbol) Sigma = { a, b }
+     Language of the machine,  L = { Words where a's come before b's}
 
 */
 
